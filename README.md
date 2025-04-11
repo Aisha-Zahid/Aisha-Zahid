@@ -10,8 +10,11 @@
 - ⚡ Fun fact: I love turning random ideas into actual working apps – even if it means debugging at 3 AM!
 
 - ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ayesha-zahid-4a9046301/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:ayeshazahid036@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ayesha-zahid-4a9046301/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:ayeshazahid036@gmail.com)  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&style=for-the-badge&logoColor=white)](https://substack.com/@ayeshazahid)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@ayeshazahid036)  
+
 
 
 ---
@@ -20,7 +23,6 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aisha-Zahid&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisha-Zahid&layout=compact&theme=radical)
 
 <!---
 Aisha-Zahid/Aisha-Zahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
