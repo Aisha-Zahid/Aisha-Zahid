@@ -1,31 +1,76 @@
-### 👋 Hi there, I’m Aisha Zahid!
+```md
+<h1 align="center">Hi 👋, I'm Aisha Zahid</h1>
 
-- 👩‍💻 I’m a Computer Science student at FAST NUCES, passionate about building impactful tech projects.
-- 👀 I’m interested in Data Science, AI, Full-Stack Development, and Open Source.
-- 🌱 I’m currently learning Flutter, Node.js, and exploring Generative AI.
-- 💡 I’ve worked on projects like **BioSentinel (Smart Attendance System)**.
-- 💞️ I’m looking to collaborate on open-source projects related to AI, education, and productivity tools.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love turning random ideas into actual working apps – even if it means debugging at 3 AM!
+<h3 align="center">
+Backend-Focused Full Stack Developer • AI Enthusiast • CS Student at FAST NUCES
+</h3>
 
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ayesha-zahid-4a9046301/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:ayeshazahid036@gmail.com)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&style=for-the-badge&logoColor=white)](https://substack.com/@ayeshazahid)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@ayeshazahid036)
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Aisha%20Zahid&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 💫 About Me
 
+- 👩‍💻 Computer Science student at **FAST NUCES**
+- 🚀 Passionate about **AI, Full-Stack Development & Open Source**
+- 🌱 Currently learning **Flutter, Node.js & Generative AI**
+- 💡 Built projects like **BioSentinel (Smart Attendance System)**
+- 🤝 Open to collaborating on **AI, Education & Productivity Tools**
+- ⚡ I turn random ideas into real working apps (with a lot of debugging 😭)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aisha-Zahid&show_icons=true&theme=tokyonight)
+---
 
-<!---
-Aisha-Zahid/Aisha-Zahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nodejs,flutter,mysql,js,html,css,git,github,vscode,firebase,python" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-zahid-4a9046301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ayeshazahid036@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://substack.com/@ayeshazahid" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@ayeshazahid036" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aisha-Zahid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisha-Zahid&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aisha-Zahid/Aisha-Zahid/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<h3 align="center">
+✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</h3>
+```
