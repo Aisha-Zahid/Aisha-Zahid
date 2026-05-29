@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2ffd8,100:bbd2ff&height=220&section=header&text=Ayesha%20Zahid&fontSize=50&fontColor=4a4a4a&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2ffd8,100:bbd2ff&height=220&section=header&text=Aisha%20Zahid&fontSize=50&fontColor=4a4a4a&animation=fadeIn" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;IoT+%26+AI+Developer;Building+Scalable+Solutions" />
